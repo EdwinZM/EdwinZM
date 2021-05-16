@@ -23,8 +23,8 @@ I’m currently learning how to code using the **Python** language.
 # How to reach me: 
 
 ![](https://img.shields.io/badge/Outlook-edwinzwa@hotmail.com-informational?style=flat&logo=microsoft-outlook&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Instagram-@edwin_zm23-informational?style=flat&logo=instagram&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/LinkedIn-Edwin_Zwanenburg-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Instagram-@edwin__zm23-informational?style=flat&logo=instagram&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/LinkedIn-edwin--zwanenburg--1b60071aa-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)
 
 
 <!---
