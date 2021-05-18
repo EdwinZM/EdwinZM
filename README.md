@@ -26,6 +26,9 @@ I’m currently learning how to code using the **Python** language.
 ![](https://img.shields.io/badge/Instagram-@edwin__zm23-informational?style=flat&logo=instagram&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/LinkedIn-edwin--zwa-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)
 
+# My Site/Resume
+https://edwinzm.github.io/Personal_Site/
+
 
 <!---
 EdwinZM/EdwinZM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
