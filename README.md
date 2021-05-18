@@ -2,7 +2,7 @@
 
 My name is Edwin Zwanenburg, I'm a highschooler interested in **Software Development** and **Computer Science**
 
-I’m currently learning how to code using the **Python** language.
+I’m currently learning how to code using the **Python** language and taking the **CS50: Introduction To Computer Science by HarvardX** course.
 
 # Technologies & Tools
 
