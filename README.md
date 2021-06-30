@@ -28,7 +28,7 @@ I’m currently learning how to code using the **Python** language and taking th
 ![](https://img.shields.io/badge/Whatsapp-+52(998)1613497-informational?style=flat&logo=whatsapp&logoColor=white&color=2bbc8a)
 
 # My Site/Resume
-https://edwinzm.github.io/Personal_Site/
+https://edwinzm.github.io/edwin_zwanenburg/
 
 
 <!---
