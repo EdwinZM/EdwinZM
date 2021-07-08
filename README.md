@@ -17,7 +17,7 @@ I’m currently learning how to code using the **Python** language and taking th
 ![](https://img.shields.io/badge/Tool-Deno-informational?style=flat&logo=deno&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=zsh&logoColor=white&color=2bbc8a)
+
 
 
 # How to reach me 
