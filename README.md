@@ -2,8 +2,8 @@
 
 My name is Edwin Zwanenburg, I'm a highschooler interested in **Software Development** and **Computer Science**
 
-I’m currently learning how to code using the **Python** language and taking the **CS50: Introduction To Computer Science by HarvardX** course.
-
+I have been self teaching myself how to code for the past few years and have done multiple projects to strengthen my skills. By using this knowledge I
+have been able to code websites to generate money for my own. I'm currently working as a Web Developer at Interactiva360.
 # Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
