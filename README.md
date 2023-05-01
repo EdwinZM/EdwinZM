@@ -1,6 +1,6 @@
 # Hello There...
 
-My name is Edwin Zwanenburg, I'm a highschooler interested in **Software Development** and **Computer Science**
+My name is Edwin Zwanenburg, I'm a Web Developer with over three years of experience.
 
 I have been self teaching myself how to code for the past few years and have done multiple projects to strengthen my skills. By using this knowledge I
 have been able to code websites to generate money for my own. I'm currently working as a Web Developer at Interactiva360.
